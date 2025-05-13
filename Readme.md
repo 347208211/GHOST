@@ -1,5 +1,5 @@
 # Readme
-Author:Weijie Zhu, Xie liang,Hanyu FU,Jiangling Zhang(me)
+Author:Weijie Zhu, Liang Xie,Hanyu FU,Jiangling Zhang(me)
 
 GHOST: A hybrid stock prediction framework with sentiment-guided integration of Mamba selection layer and Stock-wise Tokens Layer, effectively solving computational complexity challenges while leveraging GDELT multimodal sentiment analysis to enhance prediction robustness during market volatility. Empirical evaluations on CSI300 and NASDAQ datasets show that the framework achieves superior performance in directional classification and risk-adjusted returns compared to existing models, providing reliable support for quantitative investment decisions.
 
